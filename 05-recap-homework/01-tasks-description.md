@@ -14,7 +14,6 @@ ___
 
 ### Post-work
 
-<!-- * Jeśli nie wiesz czym jest `operator %` to się dowiedz. Przyda się do pracy domowej :) -->
 * Poczytaj dokumentację [`std::string`](https://en.cppreference.com/w/cpp/string/basic_string). Znajdziesz tam m.in. opis funkcji `std::to_string`. Przyda się 🙂
 * Calculate (6 XP)
 * Fibonacci - rekurencja i iteracja (6 XP)
@@ -82,7 +81,7 @@ int fibonacci_recursive(int sequence);
 
 ___
 
-## NWD (LCM) i NWW (GCD)
+## NWD (GCD) i NWW (LCM)
 
 Zaimplementuj dwie funkcje:
 
